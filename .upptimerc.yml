@@ -2,13 +2,13 @@ owner: sknkwoxs
 repo: upptime
 
 sites:
-  - name: 국경없는 의사회
+  - name: 국경없는 의사회 msf
     url: https://msf.or.kr
-  - name: 서울정책아카이브
+  - name: 서울정책아카이브 seoulsolution
     url: https://seoulsolution.kr
-  - name: 전문무용수지원센터
+  - name: 전문무용수지원센터 dcdcenter
     url: https://dcdcenter.or.kr
-  - name: 패밀리서울
+  - name: 패밀리서울 familyseoul
     url: https://familyseoul.or.kr
   - name: APCEIU CDI
     url: https://gcedcurriculum.org
@@ -20,34 +20,28 @@ sites:
     url: https://v50.oxfamtrailwalker.or.kr
   - name: RNjob WEB
     url: https://rnjob.or.kr
-  - name: 사경포털
+  - name: 사경포털 sehub
     url: https://sehub.net
   - name: YWCA
     url: https://ywca.or.kr
-  - name: 마일스톤
+  - name: 마일스톤 mstacc
     url: https://mstacc.com
-  - name: 노을
+  - name: 노을 noul
     url: https://noul.kr
-  - name: 삼화페인트
+  - name: 삼화페인트 samhwa
     url: https://samhwa.com
-  - name: 위스타트
+  - name: 위스타트 westart
     url: https://westart.or.kr
-  - name: 이지스 블로그
+  - name: 이지스 블로그 igis-blog
     url: https://blog.igisam.com
-  - name: 아트브릿지
+  - name: 아트브릿지 artbridge
     url: https://artbridge.or.kr
   - name: OXFAM KOREA
     url: https://oxfam.or.kr
-  - name: 한울타리
+  - name: 한울타리 mcfamily
     url: https://mcfamily.or.kr
-  - name: 서울정책아카이브
-    url: https://seoulsolution.kr
-  - name: 위스타트
-    url: https://westart.or.kr
-  - name: 프론트원
+  - name: 프론트원 front1
     url: https://front1.kr
-  - name: 사경포털
-    url: https://sehub.net
   - name: GSEF
     url: https://gsef-net.org
 
