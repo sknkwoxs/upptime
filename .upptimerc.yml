@@ -16,7 +16,7 @@ sites:
   - name: APCEIU CDI
     url: https://gcedcurriculum.org
   - name: KACE
-    url: https://ukace.or.kr
+    url: http://ukace.or.kr
     __dangerous__insecure: true
   - name: OTW-WEB
     url: https://oxfamtrailwalker.or.kr
@@ -40,8 +40,7 @@ sites:
   - name: 이지스 블로그 igis-blog
     url: https://blog.igisam.com
   - name: 아트브릿지 artbridge
-    url: https://artbridge.or.kr
-    __dangerous__insecure: true
+    url: http://artbridge.or.kr
   - name: OXFAM KOREA
     url: https://oxfam.or.kr
   - name: 한울타리 mcfamily
