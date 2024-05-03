@@ -50,8 +50,6 @@ sites:
     url: https://sehub.net
   - name: GSEF
     url: https://gsef-net.org
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
 
 status-website:
   cname: status.skunkworks.co.kr
