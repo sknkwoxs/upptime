@@ -2,12 +2,13 @@ owner: sknkwoxs
 repo: upptime
 # https://github.com/upptime/upptime/issues/625
 delay: 2000
+skipDeleteIssues: true
 sites:
   - name: 국경없는 의사회 msf
     url: https://msf.or.kr
   - name: 서울정책아카이브 seoulsolution
     url: https://seoulsolution.kr
-    __dangerous__disable_verify_peer: true
+    __dangerous__insecure: true
   - name: 전문무용수지원센터 dcdcenter
     url: https://dcdcenter.or.kr
   - name: 패밀리서울 familyseoul
@@ -16,9 +17,10 @@ sites:
     url: https://gcedcurriculum.org
   - name: KACE
     url: https://ukace.or.kr
+    __dangerous__insecure: true
   - name: OTW-WEB
     url: https://oxfamtrailwalker.or.kr
-    __dangerous__disable_verify_peer: true
+    __dangerous__insecure: true
   - name: OTW-WEB(v50)
     url: https://v50.oxfamtrailwalker.or.kr
   - name: RNjob WEB
@@ -39,7 +41,7 @@ sites:
     url: https://blog.igisam.com
   - name: 아트브릿지 artbridge
     url: https://artbridge.or.kr
-    __dangerous__disable_verify_peer: true
+    __dangerous__insecure: true
   - name: OXFAM KOREA
     url: https://oxfam.or.kr
   - name: 한울타리 mcfamily
@@ -53,8 +55,6 @@ status-website:
   cname: status.skunkworks.co.kr
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
