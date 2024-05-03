@@ -16,8 +16,7 @@ sites:
   - name: APCEIU CDI
     url: https://gcedcurriculum.org
   - name: KACE
-    url: http://ukace.or.kr
-    __dangerous__insecure: true
+    url: https://ukace.or.kr
   - name: OTW-WEB
     url: https://oxfamtrailwalker.or.kr
     __dangerous__insecure: true
