@@ -332,19 +332,19 @@
     "url": "https://mcfamily.or.kr",
     "icon": "https://icons.duckduckgo.com/ip3/mcfamily.or.kr.ico",
     "slug": "mcfamily",
-    "status": "down",
-    "uptime": "99.69%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.69%",
-    "time": 1605,
-    "timeDay": 1561,
-    "timeWeek": 1605,
-    "timeMonth": 1605,
-    "timeYear": 1605,
+    "status": "up",
+    "uptime": "99.41%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.41%",
+    "uptimeYear": "99.41%",
+    "time": 1636,
+    "timeDay": 1638,
+    "timeWeek": 1636,
+    "timeMonth": 1636,
+    "timeYear": 1636,
     "dailyMinutesDown": {
-      "2024-05-05": 10
+      "2024-05-05": 20
     }
   },
   {
