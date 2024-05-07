@@ -48,6 +48,8 @@ sites:
     url: https://front1.kr
   - name: GSEF
     url: https://gsef-net.org
+  - name: 디캠프 dcamp
+    url: https://dcamp.kr
 
 status-website:
   cname: status.skunkworks.co.kr
