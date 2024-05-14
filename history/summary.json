@@ -265,19 +265,19 @@
     "url": "https://westart.or.kr",
     "icon": "https://icons.duckduckgo.com/ip3/westart.or.kr.ico",
     "slug": "westart",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1732,
-    "timeDay": 0,
-    "timeWeek": 1964,
-    "timeMonth": 1732,
-    "timeYear": 1732,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1736,
+    "timeDay": 1802,
+    "timeWeek": 1941,
+    "timeMonth": 1736,
+    "timeYear": 1736,
     "dailyMinutesDown": {
-      "2024-05-14": 1
+      "2024-05-14": 5
     }
   },
   {
