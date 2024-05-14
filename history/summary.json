@@ -150,19 +150,19 @@
     "url": "https://rnjob.or.kr",
     "icon": "https://icons.duckduckgo.com/ip3/rnjob.or.kr.ico",
     "slug": "r-njob-web",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 2764,
-    "timeDay": 0,
-    "timeWeek": 2873,
-    "timeMonth": 2764,
-    "timeYear": 2764,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 2748,
+    "timeDay": 2453,
+    "timeWeek": 2813,
+    "timeMonth": 2748,
+    "timeYear": 2748,
     "dailyMinutesDown": {
-      "2024-05-14": 1
+      "2024-05-14": 15
     }
   },
   {
