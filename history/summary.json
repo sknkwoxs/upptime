@@ -4,19 +4,19 @@
     "url": "https://msf.or.kr",
     "icon": "https://icons.duckduckgo.com/ip3/msf.or.kr.ico",
     "slug": "msf",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2606,
-    "timeDay": 1524,
-    "timeWeek": 2566,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 2608,
+    "timeDay": 1908,
+    "timeWeek": 2579,
     "timeMonth": 2653,
-    "timeYear": 2606,
+    "timeYear": 2608,
     "dailyMinutesDown": {
-      "2024-06-04": 1
+      "2024-06-04": 9
     }
   },
   {
