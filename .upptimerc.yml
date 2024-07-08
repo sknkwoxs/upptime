@@ -4,7 +4,7 @@ repo: upptime
 delay: 2000
 skipDeleteIssues: true
 sites:
-  - name: 국경없는 의사회 msf
+  - name: 국경없는의사회 msf
     url: https://msf.or.kr
   - name: 서울정책아카이브 seoulsolution
     url: https://seoulsolution.kr
@@ -24,32 +24,28 @@ sites:
     url: https://v50.oxfamtrailwalker.or.kr
   - name: RNjob WEB
     url: https://rnjob.or.kr
-  - name: 사경포털 sehub
-    url: https://sehub.net
   - name: YWCA
     url: https://ywca.or.kr
   - name: 마일스톤 mstacc
     url: https://mstacc.com
   - name: 노을 noul
-    url: https://noul.kr
+    url: https://noul.com
   - name: 삼화페인트 samhwa
     url: https://samhwa.com
   - name: 위스타트 westart
     url: https://westart.or.kr
   - name: 이지스 블로그 igis-blog
     url: https://blog.igisam.com
-  - name: 아트브릿지 artbridge
-    url: http://artbridge.or.kr
-  - name: OXFAM KOREA
-    url: https://oxfam.or.kr
   - name: 한울타리 mcfamily
     url: https://mcfamily.or.kr
   - name: 프론트원 front1
     url: https://front1.kr
-  - name: GSEF
-    url: https://gsef-net.org
   - name: 디캠프 dcamp
     url: https://dcamp.kr
+  - name: 공공결혼식
+    url: https://wedding.familyseoul.or.kr
+  - name: 간호실무
+    url: https://nursingnavi.rnjob.or.kr
 
 status-website:
   cname: status.skunkworks.co.kr
