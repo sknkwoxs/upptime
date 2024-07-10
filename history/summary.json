@@ -310,17 +310,17 @@
     "url": "https://mcfamily.or.kr",
     "icon": "https://icons.duckduckgo.com/ip3/mcfamily.or.kr.ico",
     "slug": "mcfamily",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
-    "uptimeDay": "98.96%",
+    "uptimeDay": "98.93%",
     "uptimeWeek": "99.25%",
     "uptimeMonth": "99.40%",
     "uptimeYear": "99.38%",
-    "time": 1624,
-    "timeDay": 1762,
-    "timeWeek": 1635,
-    "timeMonth": 1670,
-    "timeYear": 1624,
+    "time": 1622,
+    "timeDay": 1677,
+    "timeWeek": 1618,
+    "timeMonth": 1665,
+    "timeYear": 1622,
     "dailyMinutesDown": {
       "2024-07-10": 15,
       "2024-07-09": 30,
@@ -402,11 +402,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wedding.familyseoul.or.kr.ico",
     "slug": "",
     "status": "up",
-    "uptime": "52.66%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "97.52%",
-    "uptimeMonth": "80.46%",
-    "uptimeYear": "52.66%",
+    "uptime": "55.12%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "97.62%",
+    "uptimeMonth": "81.34%",
+    "uptimeYear": "55.12%",
     "time": 1651,
     "timeDay": 2728,
     "timeWeek": 2548,
@@ -457,7 +457,7 @@
       "2024-05-10": 6,
       "2024-05-09": 19,
       "2024-05-06": 27,
-      "2024-05-05": 23
+      "2024-05-05": 13
     }
   },
   {
@@ -466,11 +466,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/nursingnavi.rnjob.or.kr.ico",
     "slug": "",
     "status": "up",
-    "uptime": "52.66%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "97.52%",
-    "uptimeMonth": "80.46%",
-    "uptimeYear": "52.66%",
+    "uptime": "55.12%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "97.62%",
+    "uptimeMonth": "81.34%",
+    "uptimeYear": "55.12%",
     "time": 1651,
     "timeDay": 2728,
     "timeWeek": 2548,
@@ -521,7 +521,7 @@
       "2024-05-10": 6,
       "2024-05-09": 19,
       "2024-05-06": 27,
-      "2024-05-05": 23
+      "2024-05-05": 13
     }
   }
 ]
