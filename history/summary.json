@@ -318,18 +318,19 @@
     "url": "https://mcfamily.or.kr",
     "icon": "https://icons.duckduckgo.com/ip3/mcfamily.or.kr.ico",
     "slug": "mcfamily",
-    "status": "up",
+    "status": "down",
     "uptime": "99.34%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.66%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.65%",
     "uptimeMonth": "98.99%",
     "uptimeYear": "99.34%",
-    "time": 1610,
-    "timeDay": 2026,
-    "timeWeek": 1686,
-    "timeMonth": 1588,
-    "timeYear": 1610,
+    "time": 1609,
+    "timeDay": 1629,
+    "timeWeek": 1661,
+    "timeMonth": 1585,
+    "timeYear": 1609,
     "dailyMinutesDown": {
+      "2024-08-05": 0,
       "2024-08-01": 21,
       "2024-07-31": 6,
       "2024-07-29": 6,
@@ -376,7 +377,7 @@
       "2024-05-18": 29,
       "2024-05-17": 7,
       "2024-05-14": 22,
-      "2024-05-13": 30
+      "2024-05-13": 21
     }
   },
   {
@@ -423,17 +424,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wedding.familyseoul.or.kr.ico",
     "slug": "",
     "status": "up",
-    "uptime": "97.15%",
-    "uptimeDay": "100.00%",
+    "uptime": "97.17%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.58%",
     "uptimeMonth": "98.73%",
-    "uptimeYear": "97.15%",
+    "uptimeYear": "97.17%",
     "time": 2229,
     "timeDay": 2845,
     "timeWeek": 2558,
     "timeMonth": 2594,
     "timeYear": 2229,
     "dailyMinutesDown": {
+      "2024-08-05": 1,
       "2024-08-01": 29,
       "2024-07-31": 6,
       "2024-07-29": 6,
@@ -473,7 +475,7 @@
       "2024-06-10": 21,
       "2024-06-08": 7,
       "2024-06-07": 8,
-      "2024-06-06": 47
+      "2024-06-06": 41
     }
   },
   {
@@ -482,17 +484,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nursingnavi.rnjob.or.kr.ico",
     "slug": "",
     "status": "up",
-    "uptime": "97.15%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.58%",
+    "uptime": "97.17%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.57%",
     "uptimeMonth": "98.73%",
-    "uptimeYear": "97.15%",
+    "uptimeYear": "97.17%",
     "time": 2229,
     "timeDay": 2845,
     "timeWeek": 2558,
     "timeMonth": 2594,
     "timeYear": 2229,
     "dailyMinutesDown": {
+      "2024-08-05": 1,
       "2024-08-01": 29,
       "2024-07-31": 6,
       "2024-07-29": 6,
@@ -532,7 +535,7 @@
       "2024-06-10": 21,
       "2024-06-08": 7,
       "2024-06-07": 8,
-      "2024-06-06": 47
+      "2024-06-06": 41
     }
   }
 ]
