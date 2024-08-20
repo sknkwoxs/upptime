@@ -1,7 +1,7 @@
 url: https://msf.or.kr
-status: up
-code: 200
-responseTime: 2451
-lastUpdated: 2024-08-19T23:06:04.958Z
+status: down
+code: 502
+responseTime: 981
+lastUpdated: 2024-08-20T22:01:11.296Z
 startTime: 2024-05-03T04:15:28.748Z
 generator: Upptime <https://github.com/upptime/upptime>
