@@ -245,12 +245,12 @@
     "slug": "samhwa",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "99.45%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.92%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.77%",
     "time": 2407,
-    "timeDay": 3579,
+    "timeDay": 2263,
     "timeWeek": 2587,
     "timeMonth": 2367,
     "timeYear": 2407,
@@ -321,9 +321,9 @@
     "url": "https://mcfamily.or.kr",
     "icon": "https://icons.duckduckgo.com/ip3/mcfamily.or.kr.ico",
     "slug": "mcfamily",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "99.20%",
+    "uptimeDay": "99.16%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.00%",
     "uptimeYear": "99.43%",
@@ -333,6 +333,7 @@
     "timeMonth": 1620,
     "timeYear": 1612,
     "dailyMinutesDown": {
+      "2024-08-27": 1,
       "2024-08-26": 12,
       "2024-08-24": 16,
       "2024-08-19": 28,
@@ -375,8 +376,7 @@
       "2024-06-16": 7,
       "2024-06-15": 23,
       "2024-06-14": 14,
-      "2024-06-13": 22,
-      "2024-06-12": 6
+      "2024-06-13": 22
     }
   },
   {
@@ -424,17 +424,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wedding.familyseoul.or.kr.ico",
     "slug": "",
     "status": "up",
-    "uptime": "98.69%",
-    "uptimeDay": "98.65%",
-    "uptimeWeek": "99.51%",
+    "uptime": "98.72%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.50%",
     "uptimeMonth": "98.92%",
-    "uptimeYear": "98.69%",
+    "uptimeYear": "98.72%",
     "time": 2347,
     "timeDay": 2564,
     "timeWeek": 2545,
     "timeMonth": 2560,
     "timeYear": 2347,
     "dailyMinutesDown": {
+      "2024-08-27": 1,
       "2024-08-26": 20,
       "2024-08-24": 16,
       "2024-08-22": 6,
@@ -473,8 +474,7 @@
       "2024-07-07": 6,
       "2024-07-06": 8,
       "2024-07-05": 16,
-      "2024-07-03": 16,
-      "2024-07-02": 9
+      "2024-07-03": 16
     }
   },
   {
@@ -483,17 +483,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nursingnavi.rnjob.or.kr.ico",
     "slug": "",
     "status": "up",
-    "uptime": "98.69%",
-    "uptimeDay": "98.65%",
-    "uptimeWeek": "99.51%",
+    "uptime": "98.72%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.50%",
     "uptimeMonth": "98.92%",
-    "uptimeYear": "98.69%",
+    "uptimeYear": "98.72%",
     "time": 2347,
     "timeDay": 2564,
     "timeWeek": 2545,
     "timeMonth": 2560,
     "timeYear": 2347,
     "dailyMinutesDown": {
+      "2024-08-27": 1,
       "2024-08-26": 20,
       "2024-08-24": 16,
       "2024-08-22": 6,
@@ -532,8 +533,7 @@
       "2024-07-07": 6,
       "2024-07-06": 8,
       "2024-07-05": 16,
-      "2024-07-03": 16,
-      "2024-07-02": 9
+      "2024-07-03": 16
     }
   }
 ]
