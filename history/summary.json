@@ -325,17 +325,17 @@
     "url": "https://mcfamily.or.kr",
     "icon": "https://icons.duckduckgo.com/ip3/mcfamily.or.kr.ico",
     "slug": "mcfamily",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "97.68%",
+    "uptimeDay": "97.65%",
     "uptimeWeek": "99.24%",
     "uptimeMonth": "98.95%",
     "uptimeYear": "99.45%",
-    "time": 1611,
-    "timeDay": 1426,
-    "timeWeek": 1586,
-    "timeMonth": 1613,
-    "timeYear": 1611,
+    "time": 1610,
+    "timeDay": 1412,
+    "timeWeek": 1574,
+    "timeMonth": 1610,
+    "timeYear": 1610,
     "dailyMinutesDown": {
       "2024-08-31": 33,
       "2024-08-29": 24,
@@ -378,8 +378,7 @@
       "2024-06-28": 24,
       "2024-06-22": 7,
       "2024-06-20": 20,
-      "2024-06-17": 9,
-      "2024-06-16": 7
+      "2024-06-17": 9
     }
   },
   {
@@ -428,17 +427,17 @@
     "slug": "",
     "status": "up",
     "uptime": "98.84%",
-    "uptimeDay": "96.90%",
+    "uptimeDay": "96.86%",
     "uptimeWeek": "98.89%",
     "uptimeMonth": "98.80%",
     "uptimeYear": "98.84%",
     "time": 2123,
-    "timeDay": 1831,
+    "timeDay": 1833,
     "timeWeek": 1911,
     "timeMonth": 2101,
     "timeYear": 2123,
     "dailyMinutesDown": {
-      "2024-08-31": 44,
+      "2024-08-31": 45,
       "2024-08-30": 10,
       "2024-08-29": 31,
       "2024-08-27": 7,
@@ -473,7 +472,7 @@
       "2024-07-14": 19,
       "2024-07-13": 116,
       "2024-07-12": 73,
-      "2024-07-11": 13
+      "2024-07-11": 6
     }
   },
   {
@@ -483,17 +482,17 @@
     "slug": "",
     "status": "up",
     "uptime": "98.84%",
-    "uptimeDay": "96.90%",
+    "uptimeDay": "96.86%",
     "uptimeWeek": "98.89%",
     "uptimeMonth": "98.80%",
     "uptimeYear": "98.84%",
     "time": 2123,
-    "timeDay": 1831,
+    "timeDay": 1833,
     "timeWeek": 1911,
     "timeMonth": 2101,
     "timeYear": 2123,
     "dailyMinutesDown": {
-      "2024-08-31": 44,
+      "2024-08-31": 45,
       "2024-08-30": 10,
       "2024-08-29": 31,
       "2024-08-27": 7,
@@ -528,7 +527,7 @@
       "2024-07-14": 19,
       "2024-07-13": 116,
       "2024-07-12": 73,
-      "2024-07-11": 13
+      "2024-07-11": 6
     }
   }
 ]
