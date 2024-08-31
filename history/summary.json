@@ -27,10 +27,10 @@
     "url": "https://seoulsolution.kr",
     "icon": "https://icons.duckduckgo.com/ip3/seoulsolution.kr.ico",
     "slug": "seoulsolution",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1988,
@@ -38,7 +38,9 @@
     "timeWeek": 1998,
     "timeMonth": 1865,
     "timeYear": 1988,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-31": 1
+    }
   },
   {
     "name": "전문무용수지원센터 dcdcenter",
@@ -164,7 +166,7 @@
     "slug": "r-njob-web",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.34%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.91%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.94%",
@@ -326,12 +328,12 @@
     "status": "up",
     "uptime": "99.45%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.42%",
+    "uptimeWeek": "99.58%",
     "uptimeMonth": "99.01%",
     "uptimeYear": "99.45%",
     "time": 1616,
     "timeDay": 1805,
-    "timeWeek": 1683,
+    "timeWeek": 1690,
     "timeMonth": 1630,
     "timeYear": 1616,
     "dailyMinutesDown": {
@@ -426,17 +428,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wedding.familyseoul.or.kr.ico",
     "slug": "",
     "status": "up",
-    "uptime": "98.81%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.18%",
-    "uptimeMonth": "98.89%",
-    "uptimeYear": "98.81%",
+    "uptime": "98.84%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "98.88%",
+    "uptimeYear": "98.84%",
     "time": 2123,
     "timeDay": 1830,
     "timeWeek": 1911,
     "timeMonth": 2101,
     "timeYear": 2123,
     "dailyMinutesDown": {
+      "2024-08-31": 1,
       "2024-08-30": 10,
       "2024-08-29": 31,
       "2024-08-27": 7,
@@ -473,7 +476,7 @@
       "2024-07-12": 73,
       "2024-07-11": 13,
       "2024-07-10": 25,
-      "2024-07-09": 30
+      "2024-07-09": 9
     }
   },
   {
@@ -482,17 +485,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nursingnavi.rnjob.or.kr.ico",
     "slug": "",
     "status": "up",
-    "uptime": "98.81%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.18%",
-    "uptimeMonth": "98.89%",
-    "uptimeYear": "98.81%",
+    "uptime": "98.84%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "98.88%",
+    "uptimeYear": "98.84%",
     "time": 2123,
     "timeDay": 1830,
     "timeWeek": 1911,
     "timeMonth": 2101,
     "timeYear": 2123,
     "dailyMinutesDown": {
+      "2024-08-31": 1,
       "2024-08-30": 10,
       "2024-08-29": 31,
       "2024-08-27": 7,
@@ -529,7 +533,7 @@
       "2024-07-12": 73,
       "2024-07-11": 13,
       "2024-07-10": 25,
-      "2024-07-09": 30
+      "2024-07-09": 9
     }
   }
 ]
