@@ -226,9 +226,9 @@
     "url": "https://samhwa.com",
     "icon": "https://icons.duckduckgo.com/ip3/samhwa.com.ico",
     "slug": "samhwa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "99.47%",
+    "uptimeDay": "99.42%",
     "uptimeWeek": "99.92%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.78%",
@@ -238,7 +238,7 @@
     "timeMonth": 2386,
     "timeYear": 2402,
     "dailyMinutesDown": {
-      "2024-09-02": 8,
+      "2024-09-02": 9,
       "2024-08-26": 8,
       "2024-08-01": 8,
       "2024-07-21": 7,
@@ -309,12 +309,12 @@
     "status": "up",
     "uptime": "99.46%",
     "uptimeDay": "99.39%",
-    "uptimeWeek": "99.10%",
+    "uptimeWeek": "99.21%",
     "uptimeMonth": "98.96%",
     "uptimeYear": "99.46%",
     "time": 1610,
     "timeDay": 1550,
-    "timeWeek": 1574,
+    "timeWeek": 1591,
     "timeMonth": 1619,
     "timeYear": 1610,
     "dailyMinutesDown": {
@@ -407,18 +407,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wedding.familyseoul.or.kr.ico",
     "slug": "",
     "status": "up",
-    "uptime": "98.20%",
-    "uptimeDay": "60.63%",
-    "uptimeWeek": "93.28%",
-    "uptimeMonth": "97.56%",
-    "uptimeYear": "98.20%",
+    "uptime": "97.35%",
+    "uptimeDay": "11.12%",
+    "uptimeWeek": "86.32%",
+    "uptimeMonth": "95.93%",
+    "uptimeYear": "97.35%",
     "time": 2131,
     "timeDay": 2623,
     "timeWeek": 1920,
     "timeMonth": 2109,
     "timeYear": 2131,
     "dailyMinutesDown": {
-      "2024-09-02": 568,
+      "2024-09-02": 1281,
       "2024-08-31": 50,
       "2024-08-30": 10,
       "2024-08-29": 31,
@@ -453,7 +453,7 @@
       "2024-07-16": 5,
       "2024-07-14": 19,
       "2024-07-13": 116,
-      "2024-07-12": 56
+      "2024-07-12": 44
     }
   },
   {
@@ -462,18 +462,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nursingnavi.rnjob.or.kr.ico",
     "slug": "",
     "status": "up",
-    "uptime": "98.20%",
-    "uptimeDay": "60.63%",
-    "uptimeWeek": "93.28%",
-    "uptimeMonth": "97.56%",
-    "uptimeYear": "98.20%",
+    "uptime": "97.35%",
+    "uptimeDay": "11.11%",
+    "uptimeWeek": "86.32%",
+    "uptimeMonth": "95.93%",
+    "uptimeYear": "97.35%",
     "time": 2131,
     "timeDay": 2623,
     "timeWeek": 1920,
     "timeMonth": 2109,
     "timeYear": 2131,
     "dailyMinutesDown": {
-      "2024-09-02": 568,
+      "2024-09-02": 1281,
       "2024-08-31": 50,
       "2024-08-30": 10,
       "2024-08-29": 31,
@@ -508,7 +508,7 @@
       "2024-07-16": 5,
       "2024-07-14": 19,
       "2024-07-13": 116,
-      "2024-07-12": 56
+      "2024-07-12": 44
     }
   }
 ]
