@@ -20,8 +20,6 @@ sites:
   - name: OTW-WEB
     url: https://oxfamtrailwalker.or.kr
     __dangerous__insecure: true
-  - name: OTW-WEB(v50)
-    url: https://v50.oxfamtrailwalker.or.kr
   - name: RNjob WEB
     url: https://rnjob.or.kr
   - name: YWCA
