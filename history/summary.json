@@ -364,10 +364,10 @@
     "url": "https://front1.kr",
     "icon": "https://icons.duckduckgo.com/ip3/front1.kr.ico",
     "slug": "front1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 914,
@@ -375,7 +375,9 @@
     "timeWeek": 908,
     "timeMonth": 932,
     "timeYear": 914,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-06": 1
+    }
   },
   {
     "name": "디캠프 dcamp",
@@ -404,18 +406,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wedding.familyseoul.or.kr.ico",
     "slug": "",
     "status": "up",
-    "uptime": "90.90%",
+    "uptime": "90.86%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "28.03%",
-    "uptimeMonth": "82.46%",
-    "uptimeYear": "90.90%",
+    "uptimeWeek": "27.59%",
+    "uptimeMonth": "82.36%",
+    "uptimeYear": "90.86%",
     "time": 2156,
     "timeDay": 3134,
-    "timeWeek": 2008,
+    "timeWeek": 2017,
     "timeMonth": 2112,
     "timeYear": 2156,
     "dailyMinutesDown": {
-      "2024-09-06": 1316,
+      "2024-09-06": 1360,
       "2024-09-05": 1448,
       "2024-09-03": 1538,
       "2024-09-02": 1463,
@@ -453,7 +455,7 @@
       "2024-07-17": 9,
       "2024-07-16": 5,
       "2024-07-14": 19,
-      "2024-07-13": 12
+      "2024-07-13": 6
     }
   },
   {
@@ -462,18 +464,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nursingnavi.rnjob.or.kr.ico",
     "slug": "",
     "status": "up",
-    "uptime": "90.90%",
+    "uptime": "90.86%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "28.03%",
-    "uptimeMonth": "82.46%",
-    "uptimeYear": "90.90%",
+    "uptimeWeek": "27.59%",
+    "uptimeMonth": "82.36%",
+    "uptimeYear": "90.86%",
     "time": 2156,
     "timeDay": 3134,
-    "timeWeek": 2008,
+    "timeWeek": 2017,
     "timeMonth": 2112,
     "timeYear": 2156,
     "dailyMinutesDown": {
-      "2024-09-06": 1316,
+      "2024-09-06": 1360,
       "2024-09-05": 1448,
       "2024-09-03": 1538,
       "2024-09-02": 1463,
@@ -511,7 +513,7 @@
       "2024-07-17": 9,
       "2024-07-16": 5,
       "2024-07-14": 19,
-      "2024-07-13": 12
+      "2024-07-13": 6
     }
   }
 ]
