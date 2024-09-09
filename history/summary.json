@@ -167,10 +167,10 @@
     "url": "https://ywca.or.kr",
     "icon": "https://icons.duckduckgo.com/ip3/ywca.or.kr.ico",
     "slug": "ywca",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.43%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.42%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.97%",
     "time": 1171,
@@ -179,6 +179,7 @@
     "timeMonth": 1245,
     "timeYear": 1171,
     "dailyMinutesDown": {
+      "2024-09-09": 1,
       "2024-09-07": 58
     }
   },
@@ -407,18 +408,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wedding.familyseoul.or.kr.ico",
     "slug": "",
     "status": "up",
-    "uptime": "87.36%",
+    "uptime": "87.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "74.17%",
-    "uptimeYear": "87.36%",
+    "uptimeMonth": "74.11%",
+    "uptimeYear": "87.34%",
     "time": 2156,
     "timeDay": 0,
     "timeWeek": 2661,
     "timeMonth": 2109,
     "timeYear": 2156,
     "dailyMinutesDown": {
-      "2024-09-09": 498,
+      "2024-09-09": 526,
       "2024-09-08": 1500,
       "2024-09-07": 1517,
       "2024-09-06": 1472,
@@ -448,8 +449,7 @@
       "2024-08-01": 29,
       "2024-07-31": 6,
       "2024-07-29": 6,
-      "2024-07-28": 15,
-      "2024-07-27": 6
+      "2024-07-28": 15
     }
   },
   {
@@ -458,18 +458,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nursingnavi.rnjob.or.kr.ico",
     "slug": "",
     "status": "up",
-    "uptime": "87.36%",
+    "uptime": "87.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "74.17%",
-    "uptimeYear": "87.36%",
+    "uptimeMonth": "74.11%",
+    "uptimeYear": "87.34%",
     "time": 2156,
     "timeDay": 0,
     "timeWeek": 2661,
     "timeMonth": 2109,
     "timeYear": 2156,
     "dailyMinutesDown": {
-      "2024-09-09": 498,
+      "2024-09-09": 526,
       "2024-09-08": 1500,
       "2024-09-07": 1517,
       "2024-09-06": 1472,
@@ -499,8 +499,7 @@
       "2024-08-01": 29,
       "2024-07-31": 6,
       "2024-07-29": 6,
-      "2024-07-28": 15,
-      "2024-07-27": 6
+      "2024-07-28": 15
     }
   }
 ]
