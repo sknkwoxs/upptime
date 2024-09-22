@@ -8,12 +8,12 @@
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 2645,
     "timeDay": 2719,
     "timeWeek": 2580,
-    "timeMonth": 2752,
+    "timeMonth": 2744,
     "timeYear": 2645,
     "dailyMinutesDown": {
       "2024-08-22": 6,
@@ -314,18 +314,19 @@
     "url": "https://mcfamily.or.kr",
     "icon": "https://icons.duckduckgo.com/ip3/mcfamily.or.kr.ico",
     "slug": "mcfamily",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "97.70%",
-    "uptimeWeek": "98.88%",
+    "uptimeDay": "98.20%",
+    "uptimeWeek": "99.02%",
     "uptimeMonth": "98.15%",
     "uptimeYear": "99.51%",
-    "time": 1593,
-    "timeDay": 1578,
-    "timeWeek": 1608,
-    "timeMonth": 1548,
-    "timeYear": 1593,
+    "time": 1592,
+    "timeDay": 1598,
+    "timeWeek": 1619,
+    "timeMonth": 1547,
+    "timeYear": 1592,
     "dailyMinutesDown": {
+      "2024-09-22": 1,
       "2024-09-21": 33,
       "2024-09-20": 7,
       "2024-09-18": 45,
@@ -349,7 +350,7 @@
       "2024-08-16": 25,
       "2024-08-15": 8,
       "2024-08-14": 40,
-      "2024-08-13": 18
+      "2024-08-13": 10
     }
   },
   {
@@ -399,17 +400,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wedding.familyseoul.or.kr.ico",
     "slug": "",
     "status": "up",
-    "uptime": "72.62%",
+    "uptime": "72.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "31.93%",
-    "uptimeYear": "72.62%",
+    "uptimeMonth": "30.96%",
+    "uptimeYear": "72.34%",
     "time": 2199,
     "timeDay": 2712,
     "timeWeek": 2584,
     "timeMonth": 2104,
     "timeYear": 2199,
     "dailyMinutesDown": {
+      "2024-09-22": 465,
       "2024-09-21": 1473,
       "2024-09-20": 1447,
       "2024-09-19": 1448,
@@ -426,7 +428,6 @@
       "2024-09-05": 1448,
       "2024-09-03": 1538,
       "2024-09-02": 1463,
-      "2024-09-22": 30,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-11": 1440,
@@ -436,7 +437,7 @@
       "2024-08-29": 31,
       "2024-08-27": 7,
       "2024-08-26": 20,
-      "2024-08-24": 16
+      "2024-08-24": 8
     }
   },
   {
@@ -445,17 +446,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nursingnavi.rnjob.or.kr.ico",
     "slug": "",
     "status": "up",
-    "uptime": "72.62%",
+    "uptime": "72.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "31.93%",
-    "uptimeYear": "72.62%",
+    "uptimeMonth": "30.96%",
+    "uptimeYear": "72.34%",
     "time": 2199,
     "timeDay": 2712,
     "timeWeek": 2584,
     "timeMonth": 2104,
     "timeYear": 2199,
     "dailyMinutesDown": {
+      "2024-09-22": 465,
       "2024-09-21": 1473,
       "2024-09-20": 1447,
       "2024-09-19": 1448,
@@ -472,7 +474,6 @@
       "2024-09-05": 1448,
       "2024-09-03": 1538,
       "2024-09-02": 1463,
-      "2024-09-22": 30,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-11": 1440,
@@ -482,7 +483,7 @@
       "2024-08-29": 31,
       "2024-08-27": 7,
       "2024-08-26": 20,
-      "2024-08-24": 16
+      "2024-08-24": 8
     }
   }
 ]
