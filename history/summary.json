@@ -27,11 +27,11 @@
     "url": "https://seoulsolution.kr",
     "icon": "https://icons.duckduckgo.com/ip3/seoulsolution.kr.ico",
     "slug": "seoulsolution",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 1953,
     "timeDay": 1696,
@@ -39,6 +39,7 @@
     "timeMonth": 1802,
     "timeYear": 1953,
     "dailyMinutesDown": {
+      "2024-10-05": 2,
       "2024-08-31": 11
     }
   },
@@ -126,10 +127,10 @@
     "url": "https://oxfamtrailwalker.or.kr",
     "icon": "https://icons.duckduckgo.com/ip3/oxfamtrailwalker.or.kr.ico",
     "slug": "otw-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1729,
@@ -138,6 +139,7 @@
     "timeMonth": 1730,
     "timeYear": 1729,
     "dailyMinutesDown": {
+      "2024-10-05": 2,
       "2024-06-12": 8
     }
   },
@@ -300,10 +302,10 @@
     "url": "https://blog.igisam.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.igisam.com.ico",
     "slug": "igis-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 1324,
@@ -312,6 +314,7 @@
     "timeMonth": 1315,
     "timeYear": 1324,
     "dailyMinutesDown": {
+      "2024-10-05": 1,
       "2024-09-06": 18
     }
   },
@@ -407,18 +410,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wedding.familyseoul.or.kr.ico",
     "slug": "",
     "status": "up",
-    "uptime": "99.21%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.23%",
-    "uptimeMonth": "97.99%",
-    "uptimeYear": "99.21%",
+    "uptime": "99.23%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "97.98%",
+    "uptimeYear": "99.23%",
     "time": 2231,
     "timeDay": 2481,
     "timeWeek": 2626,
     "timeMonth": 2592,
     "timeYear": 2231,
     "dailyMinutesDown": {
-      "2024-10-05": 13,
+      "2024-10-05": 19,
       "2024-10-02": 8,
       "2024-10-01": 12,
       "2024-09-30": 27,
@@ -441,8 +444,7 @@
       "2024-09-07": 77,
       "2024-09-06": 32,
       "2024-09-05": 8,
-      "2024-09-03": 98,
-      "2024-09-02": 24
+      "2024-09-03": 98
     }
   },
   {
@@ -451,18 +453,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nursingnavi.rnjob.or.kr.ico",
     "slug": "",
     "status": "up",
-    "uptime": "99.21%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.23%",
-    "uptimeMonth": "97.99%",
-    "uptimeYear": "99.21%",
+    "uptime": "99.23%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "97.98%",
+    "uptimeYear": "99.23%",
     "time": 2231,
     "timeDay": 2481,
     "timeWeek": 2626,
     "timeMonth": 2592,
     "timeYear": 2231,
     "dailyMinutesDown": {
-      "2024-10-05": 13,
+      "2024-10-05": 19,
       "2024-10-02": 8,
       "2024-10-01": 12,
       "2024-09-30": 27,
@@ -485,8 +487,7 @@
       "2024-09-07": 77,
       "2024-09-06": 32,
       "2024-09-05": 8,
-      "2024-09-03": 98,
-      "2024-09-02": 24
+      "2024-09-03": 98
     }
   }
 ]
