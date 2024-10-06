@@ -323,18 +323,19 @@
     "url": "https://mcfamily.or.kr",
     "icon": "https://icons.duckduckgo.com/ip3/mcfamily.or.kr.ico",
     "slug": "mcfamily",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.63%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.62%",
     "uptimeMonth": "98.37%",
     "uptimeYear": "99.56%",
     "time": 1599,
-    "timeDay": 1760,
-    "timeWeek": 1711,
-    "timeMonth": 1568,
+    "timeDay": 1801,
+    "timeWeek": 1728,
+    "timeMonth": 1571,
     "timeYear": 1599,
     "dailyMinutesDown": {
+      "2024-10-06": 1,
       "2024-10-05": 13,
       "2024-10-01": 12,
       "2024-09-30": 13,
@@ -360,7 +361,7 @@
       "2024-08-26": 12,
       "2024-08-24": 16,
       "2024-08-19": 28,
-      "2024-08-17": 44
+      "2024-08-17": 31
     }
   },
   {
@@ -411,8 +412,8 @@
     "slug": "",
     "status": "up",
     "uptime": "99.20%",
-    "uptimeDay": "95.71%",
-    "uptimeWeek": "98.75%",
+    "uptimeDay": "95.66%",
+    "uptimeWeek": "98.74%",
     "uptimeMonth": "97.88%",
     "uptimeYear": "99.20%",
     "time": 2230,
@@ -421,6 +422,7 @@
     "timeMonth": 2554,
     "timeYear": 2230,
     "dailyMinutesDown": {
+      "2024-10-06": 1,
       "2024-10-05": 61,
       "2024-10-02": 8,
       "2024-10-01": 12,
@@ -444,7 +446,7 @@
       "2024-09-07": 77,
       "2024-09-06": 32,
       "2024-09-05": 8,
-      "2024-09-03": 98
+      "2024-09-03": 91
     }
   },
   {
@@ -454,8 +456,8 @@
     "slug": "",
     "status": "up",
     "uptime": "99.20%",
-    "uptimeDay": "95.71%",
-    "uptimeWeek": "98.75%",
+    "uptimeDay": "95.66%",
+    "uptimeWeek": "98.74%",
     "uptimeMonth": "97.88%",
     "uptimeYear": "99.20%",
     "time": 2230,
@@ -464,6 +466,7 @@
     "timeMonth": 2554,
     "timeYear": 2230,
     "dailyMinutesDown": {
+      "2024-10-06": 1,
       "2024-10-05": 61,
       "2024-10-02": 8,
       "2024-10-01": 12,
@@ -487,7 +490,7 @@
       "2024-09-07": 77,
       "2024-09-06": 32,
       "2024-09-05": 8,
-      "2024-09-03": 98
+      "2024-09-03": 91
     }
   }
 ]
