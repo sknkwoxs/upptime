@@ -27,18 +27,19 @@
     "url": "https://seoulsolution.kr",
     "icon": "https://icons.duckduckgo.com/ip3/seoulsolution.kr.ico",
     "slug": "seoulsolution",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "98.52%",
-    "uptimeWeek": "99.79%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "99.76%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "99.98%",
     "time": 1950,
     "timeDay": 1723,
     "timeWeek": 1657,
     "timeMonth": 1792,
     "timeYear": 1950,
     "dailyMinutesDown": {
+      "2024-10-06": 3,
       "2024-10-05": 21,
       "2024-08-31": 11
     }
@@ -127,10 +128,10 @@
     "url": "https://oxfamtrailwalker.or.kr",
     "icon": "https://icons.duckduckgo.com/ip3/oxfamtrailwalker.or.kr.ico",
     "slug": "otw-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.55%",
-    "uptimeWeek": "99.79%",
+    "uptimeDay": "98.43%",
+    "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 1723,
@@ -139,6 +140,7 @@
     "timeMonth": 1679,
     "timeYear": 1723,
     "dailyMinutesDown": {
+      "2024-10-06": 2,
       "2024-10-05": 21,
       "2024-06-12": 8
     }
@@ -412,18 +414,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wedding.familyseoul.or.kr.ico",
     "slug": "",
     "status": "up",
-    "uptime": "99.20%",
-    "uptimeDay": "95.30%",
-    "uptimeWeek": "98.73%",
-    "uptimeMonth": "97.83%",
-    "uptimeYear": "99.20%",
+    "uptime": "99.21%",
+    "uptimeDay": "94.96%",
+    "uptimeWeek": "98.69%",
+    "uptimeMonth": "97.82%",
+    "uptimeYear": "99.21%",
     "time": 2230,
     "timeDay": 2031,
     "timeWeek": 2526,
     "timeMonth": 2554,
     "timeYear": 2230,
     "dailyMinutesDown": {
-      "2024-10-06": 19,
+      "2024-10-06": 24,
       "2024-10-05": 61,
       "2024-10-02": 8,
       "2024-10-01": 12,
@@ -447,7 +449,7 @@
       "2024-09-07": 77,
       "2024-09-06": 32,
       "2024-09-05": 8,
-      "2024-09-03": 80
+      "2024-09-03": 64
     }
   },
   {
@@ -456,18 +458,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nursingnavi.rnjob.or.kr.ico",
     "slug": "",
     "status": "up",
-    "uptime": "99.20%",
-    "uptimeDay": "95.30%",
-    "uptimeWeek": "98.73%",
-    "uptimeMonth": "97.83%",
-    "uptimeYear": "99.20%",
+    "uptime": "99.21%",
+    "uptimeDay": "94.96%",
+    "uptimeWeek": "98.69%",
+    "uptimeMonth": "97.82%",
+    "uptimeYear": "99.21%",
     "time": 2230,
     "timeDay": 2031,
     "timeWeek": 2526,
     "timeMonth": 2554,
     "timeYear": 2230,
     "dailyMinutesDown": {
-      "2024-10-06": 19,
+      "2024-10-06": 24,
       "2024-10-05": 61,
       "2024-10-02": 8,
       "2024-10-01": 12,
@@ -491,7 +493,7 @@
       "2024-09-07": 77,
       "2024-09-06": 32,
       "2024-09-05": 8,
-      "2024-09-03": 80
+      "2024-09-03": 64
     }
   }
 ]
