@@ -338,12 +338,12 @@
     "status": "up",
     "uptime": "99.57%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.50%",
+    "uptimeWeek": "99.60%",
     "uptimeMonth": "98.75%",
     "uptimeYear": "99.57%",
     "time": 1590,
     "timeDay": 1429,
-    "timeWeek": 1577,
+    "timeWeek": 1596,
     "timeMonth": 1582,
     "timeYear": 1590,
     "dailyMinutesDown": {
@@ -397,9 +397,9 @@
     "url": "https://dcamp.kr",
     "icon": "https://icons.duckduckgo.com/ip3/dcamp.kr.ico",
     "slug": "dcamp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -409,6 +409,7 @@
     "timeMonth": 1141,
     "timeYear": 1146,
     "dailyMinutesDown": {
+      "2024-10-20": 0,
       "2024-08-16": 7,
       "2024-07-12": 7
     }
@@ -419,11 +420,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wedding.familyseoul.or.kr.ico",
     "slug": "",
     "status": "up",
-    "uptime": "99.32%",
-    "uptimeDay": "97.78%",
-    "uptimeWeek": "99.07%",
+    "uptime": "99.33%",
+    "uptimeDay": "97.74%",
+    "uptimeWeek": "99.17%",
     "uptimeMonth": "98.22%",
-    "uptimeYear": "99.32%",
+    "uptimeYear": "99.33%",
     "time": 2220,
     "timeDay": 1970,
     "timeWeek": 2061,
@@ -458,8 +459,7 @@
       "2024-09-14": 46,
       "2024-09-13": 49,
       "2024-09-12": 26,
-      "2024-09-10": 25,
-      "2024-09-09": 6
+      "2024-09-10": 25
     }
   },
   {
@@ -468,18 +468,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nursingnavi.rnjob.or.kr.ico",
     "slug": "",
     "status": "up",
-    "uptime": "99.32%",
-    "uptimeDay": "97.78%",
-    "uptimeWeek": "99.07%",
+    "uptime": "99.33%",
+    "uptimeDay": "97.74%",
+    "uptimeWeek": "99.17%",
     "uptimeMonth": "98.22%",
-    "uptimeYear": "99.32%",
+    "uptimeYear": "99.33%",
     "time": 2220,
     "timeDay": 1970,
     "timeWeek": 2061,
     "timeMonth": 2289,
     "timeYear": 2220,
     "dailyMinutesDown": {
-      "2024-10-20": 19,
+      "2024-10-20": 20,
       "2024-10-19": 13,
       "2024-10-18": 11,
       "2024-10-16": 40,
@@ -507,8 +507,7 @@
       "2024-09-14": 46,
       "2024-09-13": 49,
       "2024-09-12": 26,
-      "2024-09-10": 25,
-      "2024-09-09": 6
+      "2024-09-10": 25
     }
   }
 ]
