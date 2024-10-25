@@ -337,19 +337,19 @@
     "url": "https://mcfamily.or.kr",
     "icon": "https://icons.duckduckgo.com/ip3/mcfamily.or.kr.ico",
     "slug": "mcfamily",
-    "status": "up",
-    "uptime": "99.60%",
-    "uptimeDay": "92.77%",
-    "uptimeWeek": "98.89%",
+    "status": "down",
+    "uptime": "99.61%",
+    "uptimeDay": "92.73%",
+    "uptimeWeek": "98.88%",
     "uptimeMonth": "98.60%",
-    "uptimeYear": "99.60%",
+    "uptimeYear": "99.61%",
     "time": 1583,
-    "timeDay": 1288,
-    "timeWeek": 1412,
-    "timeMonth": 1546,
+    "timeDay": 1284,
+    "timeWeek": 1406,
+    "timeMonth": 1544,
     "timeYear": 1583,
     "dailyMinutesDown": {
-      "2024-10-25": 105,
+      "2024-10-25": 106,
       "2024-10-22": 8,
       "2024-10-16": 40,
       "2024-10-13": 10,
@@ -372,7 +372,7 @@
       "2024-09-13": 49,
       "2024-09-12": 26,
       "2024-09-10": 15,
-      "2024-09-09": 145
+      "2024-09-09": 125
     }
   },
   {
@@ -423,18 +423,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wedding.familyseoul.or.kr.ico",
     "slug": "",
     "status": "up",
-    "uptime": "99.32%",
-    "uptimeDay": "92.77%",
-    "uptimeWeek": "97.99%",
-    "uptimeMonth": "97.96%",
-    "uptimeYear": "99.32%",
+    "uptime": "99.33%",
+    "uptimeDay": "92.73%",
+    "uptimeWeek": "97.98%",
+    "uptimeMonth": "97.95%",
+    "uptimeYear": "99.33%",
     "time": 2236,
     "timeDay": 2773,
     "timeWeek": 2160,
     "timeMonth": 2329,
     "timeYear": 2236,
     "dailyMinutesDown": {
-      "2024-10-25": 105,
+      "2024-10-25": 106,
       "2024-10-22": 19,
       "2024-10-21": 41,
       "2024-10-20": 26,
@@ -462,7 +462,7 @@
       "2024-09-19": 8,
       "2024-09-18": 45,
       "2024-09-15": 28,
-      "2024-09-14": 30
+      "2024-09-14": 19
     }
   },
   {
@@ -471,18 +471,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nursingnavi.rnjob.or.kr.ico",
     "slug": "",
     "status": "up",
-    "uptime": "99.32%",
-    "uptimeDay": "92.77%",
-    "uptimeWeek": "97.99%",
-    "uptimeMonth": "97.96%",
-    "uptimeYear": "99.32%",
+    "uptime": "99.33%",
+    "uptimeDay": "92.72%",
+    "uptimeWeek": "97.98%",
+    "uptimeMonth": "97.95%",
+    "uptimeYear": "99.33%",
     "time": 2236,
     "timeDay": 2773,
     "timeWeek": 2160,
     "timeMonth": 2329,
     "timeYear": 2236,
     "dailyMinutesDown": {
-      "2024-10-25": 105,
+      "2024-10-25": 106,
       "2024-10-22": 19,
       "2024-10-21": 41,
       "2024-10-20": 26,
@@ -510,7 +510,7 @@
       "2024-09-19": 8,
       "2024-09-18": 45,
       "2024-09-15": 28,
-      "2024-09-14": 30
+      "2024-09-14": 19
     }
   }
 ]
