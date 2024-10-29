@@ -244,10 +244,10 @@
     "url": "https://samhwa.com",
     "icon": "https://icons.duckduckgo.com/ip3/samhwa.com.ico",
     "slug": "samhwa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.74%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.75%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.82%",
     "time": 2387,
@@ -256,6 +256,7 @@
     "timeMonth": 2365,
     "timeYear": 2387,
     "dailyMinutesDown": {
+      "2024-10-29": 1,
       "2024-10-28": 15,
       "2024-10-22": 11,
       "2024-10-18": 11,
@@ -429,17 +430,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wedding.familyseoul.or.kr.ico",
     "slug": "",
     "status": "up",
-    "uptime": "99.34%",
-    "uptimeDay": "97.39%",
+    "uptime": "99.35%",
+    "uptimeDay": "97.48%",
     "uptimeWeek": "98.10%",
-    "uptimeMonth": "97.95%",
-    "uptimeYear": "99.34%",
+    "uptimeMonth": "97.94%",
+    "uptimeYear": "99.35%",
     "time": 2241,
     "timeDay": 2274,
     "timeWeek": 2677,
     "timeMonth": 2316,
     "timeYear": 2241,
     "dailyMinutesDown": {
+      "2024-10-29": 1,
       "2024-10-28": 38,
       "2024-10-27": 8,
       "2024-10-26": 5,
@@ -469,7 +471,7 @@
       "2024-09-21": 33,
       "2024-09-20": 7,
       "2024-09-19": 8,
-      "2024-09-18": 45
+      "2024-09-18": 32
     }
   },
   {
@@ -478,17 +480,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nursingnavi.rnjob.or.kr.ico",
     "slug": "",
     "status": "up",
-    "uptime": "99.34%",
-    "uptimeDay": "97.39%",
+    "uptime": "99.35%",
+    "uptimeDay": "97.48%",
     "uptimeWeek": "98.10%",
-    "uptimeMonth": "97.95%",
-    "uptimeYear": "99.34%",
+    "uptimeMonth": "97.94%",
+    "uptimeYear": "99.35%",
     "time": 2241,
     "timeDay": 2274,
     "timeWeek": 2677,
     "timeMonth": 2316,
     "timeYear": 2241,
     "dailyMinutesDown": {
+      "2024-10-29": 1,
       "2024-10-28": 38,
       "2024-10-27": 8,
       "2024-10-26": 5,
@@ -518,7 +521,7 @@
       "2024-09-21": 33,
       "2024-09-20": 7,
       "2024-09-19": 8,
-      "2024-09-18": 45
+      "2024-09-18": 32
     }
   }
 ]
