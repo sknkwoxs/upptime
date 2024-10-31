@@ -13,7 +13,7 @@
     "time": 2648,
     "timeDay": 2943,
     "timeWeek": 2913,
-    "timeMonth": 2673,
+    "timeMonth": 2658,
     "timeYear": 2648,
     "dailyMinutesDown": {
       "2024-10-07": 13,
@@ -37,7 +37,7 @@
     "time": 1950,
     "timeDay": 2040,
     "timeWeek": 1893,
-    "timeMonth": 1902,
+    "timeMonth": 1886,
     "timeYear": 1950,
     "dailyMinutesDown": {
       "2024-10-21": 41,
@@ -61,7 +61,7 @@
     "time": 1233,
     "timeDay": 1210,
     "timeWeek": 1221,
-    "timeMonth": 1239,
+    "timeMonth": 1238,
     "timeYear": 1233,
     "dailyMinutesDown": {
       "2024-09-29": 8
@@ -81,7 +81,7 @@
     "time": 1109,
     "timeDay": 1475,
     "timeWeek": 1370,
-    "timeMonth": 1144,
+    "timeMonth": 1135,
     "timeYear": 1109,
     "dailyMinutesDown": {}
   },
@@ -99,7 +99,7 @@
     "time": 1538,
     "timeDay": 1434,
     "timeWeek": 1651,
-    "timeMonth": 1597,
+    "timeMonth": 1599,
     "timeYear": 1538,
     "dailyMinutesDown": {
       "2024-05-21": 156,
@@ -120,7 +120,7 @@
     "time": 1040,
     "timeDay": 967,
     "timeWeek": 965,
-    "timeMonth": 927,
+    "timeMonth": 928,
     "timeYear": 1040,
     "dailyMinutesDown": {
       "2024-06-22": 5
@@ -140,7 +140,7 @@
     "time": 1715,
     "timeDay": 1346,
     "timeWeek": 1809,
-    "timeMonth": 1646,
+    "timeMonth": 1641,
     "timeYear": 1715,
     "dailyMinutesDown": {
       "2024-10-08": 7,
@@ -187,7 +187,7 @@
     "time": 1182,
     "timeDay": 1587,
     "timeWeek": 1286,
-    "timeMonth": 1192,
+    "timeMonth": 1184,
     "timeYear": 1182,
     "dailyMinutesDown": {
       "2024-09-09": 12,
@@ -208,7 +208,7 @@
     "time": 1584,
     "timeDay": 1422,
     "timeWeek": 1710,
-    "timeMonth": 1553,
+    "timeMonth": 1546,
     "timeYear": 1584,
     "dailyMinutesDown": {}
   },
@@ -226,7 +226,7 @@
     "time": 2480,
     "timeDay": 1499,
     "timeWeek": 3424,
-    "timeMonth": 2220,
+    "timeMonth": 2199,
     "timeYear": 2480,
     "dailyMinutesDown": {
       "2024-10-29": 6,
@@ -254,7 +254,7 @@
     "time": 2387,
     "timeDay": 2324,
     "timeWeek": 2339,
-    "timeMonth": 2373,
+    "timeMonth": 2370,
     "timeYear": 2387,
     "dailyMinutesDown": {
       "2024-10-29": 12,
@@ -294,12 +294,12 @@
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.93%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.89%",
     "time": 1765,
     "timeDay": 1508,
     "timeWeek": 1687,
-    "timeMonth": 1656,
+    "timeMonth": 1660,
     "timeYear": 1765,
     "dailyMinutesDown": {
       "2024-10-26": 5,
@@ -331,7 +331,7 @@
     "time": 1349,
     "timeDay": 1049,
     "timeWeek": 1410,
-    "timeMonth": 1466,
+    "timeMonth": 1453,
     "timeYear": 1349,
     "dailyMinutesDown": {
       "2024-10-06": 10,
@@ -345,15 +345,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/mcfamily.or.kr.ico",
     "slug": "mcfamily",
     "status": "up",
-    "uptime": "99.62%",
+    "uptime": "99.63%",
     "uptimeDay": "98.65%",
     "uptimeWeek": "98.52%",
-    "uptimeMonth": "98.67%",
-    "uptimeYear": "99.62%",
+    "uptimeMonth": "98.64%",
+    "uptimeYear": "99.63%",
     "time": 1577,
     "timeDay": 1326,
     "timeWeek": 1312,
-    "timeMonth": 1492,
+    "timeMonth": 1498,
     "timeYear": 1577,
     "dailyMinutesDown": {
       "2024-10-30": 18,
@@ -435,12 +435,12 @@
     "uptime": "99.36%",
     "uptimeDay": "98.65%",
     "uptimeWeek": "97.92%",
-    "uptimeMonth": "97.96%",
+    "uptimeMonth": "97.90%",
     "uptimeYear": "99.36%",
     "time": 2243,
     "timeDay": 2410,
     "timeWeek": 2506,
-    "timeMonth": 2308,
+    "timeMonth": 2311,
     "timeYear": 2243,
     "dailyMinutesDown": {
       "2024-10-30": 18,
@@ -485,12 +485,12 @@
     "uptime": "99.36%",
     "uptimeDay": "98.65%",
     "uptimeWeek": "97.92%",
-    "uptimeMonth": "97.96%",
+    "uptimeMonth": "97.90%",
     "uptimeYear": "99.36%",
     "time": 2243,
     "timeDay": 2410,
     "timeWeek": 2506,
-    "timeMonth": 2308,
+    "timeMonth": 2311,
     "timeYear": 2243,
     "dailyMinutesDown": {
       "2024-10-30": 18,
