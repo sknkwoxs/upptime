@@ -487,11 +487,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wedding.seoulwomen.or.kr.ico",
     "slug": "wedding",
     "status": "up",
-    "uptime": "95.34%",
+    "uptime": "95.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "90.22%",
-    "uptimeYear": "95.34%",
+    "uptimeYear": "95.37%",
     "time": 1859,
     "timeDay": 1092,
     "timeWeek": 1280,
@@ -571,9 +571,9 @@
     "url": "https://www.dolbom.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.dolbom.org.ico",
     "slug": "dolbom",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -582,6 +582,8 @@
     "timeWeek": 2089,
     "timeMonth": 2272,
     "timeYear": 2272,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-07": 0
+    }
   }
 ]
