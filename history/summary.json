@@ -204,11 +204,11 @@
     "url": "https://ywca.or.kr",
     "icon": "https://icons.duckduckgo.com/ip3/ywca.or.kr.ico",
     "slug": "ywca",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
     "time": 1198,
     "timeDay": 1253,
@@ -216,6 +216,7 @@
     "timeMonth": 1427,
     "timeYear": 1198,
     "dailyMinutesDown": {
+      "2025-02-19": 1,
       "2025-02-06": 6,
       "2024-09-09": 12,
       "2024-09-07": 58
