@@ -28,8 +28,8 @@ sites:
     url: https://ywca.or.kr
   - name: 마일스톤 mstacc
     url: https://mstacc.com
-  - name: 노을 noul
-    url: https://noul.com
+  #- name: 노을 noul
+  #  url: https://noul.com
   - name: 삼화페인트 samhwa
     url: https://samhwa.com
   - name: 위스타트 westart
