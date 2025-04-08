@@ -57,9 +57,9 @@
     "slug": "dcdcenter",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1224,
     "timeDay": 1354,
@@ -67,7 +67,7 @@
     "timeMonth": 1206,
     "timeYear": 1224,
     "dailyMinutesDown": {
-      "2025-04-08": 2,
+      "2025-04-08": 5,
       "2024-09-29": 8
     }
   },
