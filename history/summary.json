@@ -123,10 +123,10 @@
     "url": "https://gcedclearinghouse.org",
     "icon": "https://icons.duckduckgo.com/ip3/gcedclearinghouse.org.ico",
     "slug": "apceiu-clearing-house",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "98.42%",
-    "uptimeWeek": "99.77%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "99.76%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
     "time": 2591,
@@ -135,7 +135,7 @@
     "timeMonth": 2580,
     "timeYear": 2591,
     "dailyMinutesDown": {
-      "2025-04-09": 23,
+      "2025-04-09": 24,
       "2025-02-21": 7,
       "2025-02-04": 5
     }
