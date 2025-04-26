@@ -247,19 +247,19 @@
     "url": "https://mstacc.com",
     "icon": "https://icons.duckduckgo.com/ip3/mstacc.com.ico",
     "slug": "mstacc",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1770,
-    "timeDay": 1625,
-    "timeWeek": 1909,
-    "timeMonth": 1890,
-    "timeYear": 1770,
+    "time": 1784,
+    "timeDay": 4200,
+    "timeWeek": 2517,
+    "timeMonth": 2042,
+    "timeYear": 1784,
     "dailyMinutesDown": {
-      "2025-04-26": 1
+      "2025-04-26": 6
     }
   },
   {
