@@ -19,8 +19,8 @@ sites:
   - name: OTW-WEB
     url: https://oxfamtrailwalker.or.kr
     __dangerous__insecure: true
-  - name: RNjob WEB
-    url: https://rnjob.or.kr
+  #- name: RNjob WEB
+  #  url: https://rnjob.or.kr
   - name: YWCA
     url: https://ywca.or.kr
   - name: 마일스톤 mstacc
@@ -35,14 +35,14 @@ sites:
     url: https://blog.igisam.com
   - name: 한울타리 mcfamily
     url: https://mcfamily.or.kr
-  - name: 프론트원 front1
-    url: https://front1.kr
+  #- name: 프론트원 front1
+  #  url: https://front1.kr
   - name: 디캠프 dcamp
     url: https://dcamp.kr
   - name: 공공결혼식 wedding
     url: https://wedding.seoulwomen.or.kr
-  - name: 간호실무 nursingnavi
-    url: https://nursingnavi.rnjob.or.kr
+  #- name: 간호실무 nursingnavi
+  #  url: https://nursingnavi.rnjob.or.kr
   - name: 한국사회가치연대기금 svsfund
     url: https://svsfund.org/
   - name: 사회적금융허브 socialfinance
