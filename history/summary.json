@@ -14,7 +14,7 @@
     "timeDay": 247,
     "timeWeek": 230,
     "timeMonth": 262,
-    "timeYear": 1694,
+    "timeYear": 1692,
     "dailyMinutesDown": {
       "2025-07-11": 226,
       "2025-07-01": 12,
@@ -82,7 +82,7 @@
     "timeDay": 1364,
     "timeWeek": 1413,
     "timeMonth": 1423,
-    "timeYear": 1309,
+    "timeYear": 1310,
     "dailyMinutesDown": {
       "2025-03-16": 7,
       "2024-11-01": 128
@@ -174,7 +174,7 @@
     "timeDay": 1593,
     "timeWeek": 1475,
     "timeMonth": 1726,
-    "timeYear": 1647,
+    "timeYear": 1645,
     "dailyMinutesDown": {
       "2025-06-24": 9,
       "2024-11-08": 15,
@@ -211,18 +211,19 @@
     "url": "https://mstacc.com",
     "icon": "https://icons.duckduckgo.com/ip3/mstacc.com.ico",
     "slug": "mstacc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1879,
-    "timeDay": 2066,
-    "timeWeek": 1933,
-    "timeMonth": 1988,
-    "timeYear": 1979,
+    "time": 1876,
+    "timeDay": 1344,
+    "timeWeek": 1769,
+    "timeMonth": 1946,
+    "timeYear": 1975,
     "dailyMinutesDown": {
+      "2025-09-02": 1,
       "2025-04-26": 6
     }
   },
@@ -241,7 +242,7 @@
     "timeDay": 7068,
     "timeWeek": 4159,
     "timeMonth": 3473,
-    "timeYear": 3987,
+    "timeYear": 3994,
     "dailyMinutesDown": {
       "2025-08-31": 23,
       "2025-08-30": 8,
@@ -374,7 +375,7 @@
     "timeDay": 648,
     "timeWeek": 846,
     "timeMonth": 970,
-    "timeYear": 1297,
+    "timeYear": 1296,
     "dailyMinutesDown": {
       "2025-05-14": 9,
       "2025-03-28": 6,
