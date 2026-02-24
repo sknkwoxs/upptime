@@ -6,6 +6,8 @@ skipDeleteIssues: true
 sites:
   - name: 국경없는의사회 msf
     url: https://msf.or.kr
+    headers:
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
   - name: 전문무용수지원센터 dcdcenter
     url: https://dcdcenter.or.kr
   - name: 패밀리서울 familyseoul
